@@ -10,8 +10,3 @@
 
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=e-basco&theme=merko)](https://git.io/streak-stats)  ![e-basco's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-basco&theme=merko&show_icons=true)
 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-basco&" alt="e-basco" /></p>
