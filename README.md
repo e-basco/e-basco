@@ -8,5 +8,5 @@
 
 [![e-basco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=e-basco&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=e-basco&theme=merko)](https://git.io/streak-stats)  ![e-basco's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-basco&theme=merko&show_icons=true)
+![e-basco's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-basco&theme=merko&show_icons=true)
 
